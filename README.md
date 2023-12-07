@@ -1,4 +1,5 @@
-# Dynamics of Personality and Demographics on Mental Health Outcomes
+# Exploring the Dynamics of Personality and Demographics on Mental Health Outcomes
+
 Understanding how personality traits and demographics influence mental health is complex. This project tackles the challenge by analyzing data through cleaning, visuals, and advanced techniques, aiming to unravel these intricate connections for more targeted interventions.
 
 ## Overview:
@@ -11,16 +12,16 @@ This repository contains the code and results for a comprehensive analysis of th
   - This Jupyter Notebook file contains the code and step-by-step analysis of the project.
 
 - **SPSS Results Screenshots:**
-  - Folder: [spss_results]
+  - Picture1 and Picture2
   - Screenshots of the SPSS results from the one-way ANOVA analyses.
 
 - **DASS Data CSV File:** [data.csv]
   - The dataset used for the analysis, including demographic information and DASS scores.
 
-- **Presentation:** [Team 10 Final Pitch Deck.pptx]
+- **Presentation:** [Team 10 Pitch Deck.pptx]
   - A presentation summarizing the key findings and insights of the analysis.
 
-- **PDF Report:** [mental_health_analysis_report.pdf](mental_health_analysis_report.pdf)
+- **PDF Report:** [Team 10 Mental Health Dynamics Analysis.pdf]
   - A detailed report providing an overview of the project, methodologies, results, and conclusions.
 
 ## Team Members:
@@ -36,7 +37,7 @@ This repository contains the code and results for a comprehensive analysis of th
    - Open the Jupyter Notebook file for a detailed walkthrough of the analysis.
 
 2. **SPSS Results:**
-   - Refer to the folder for screenshots of the SPSS results.
+   - Refer to the png files for screenshots of the SPSS results.
 
 3. **Dataset:**
    - Access the dataset in for exploring the raw data.
