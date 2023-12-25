@@ -11,17 +11,17 @@ This repository contains the code and results for a comprehensive analysis of th
 - **Notebook File:** [Team 10 - FP_FA23-DSCI 6002.ipynb](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Team%2010%20-%20FP_FA23-DSCI%206002.ipynb)
   - This Jupyter Notebook file contains the code and step-by-step analysis of the project.
 
-- **SPSS Results Screenshots:**
+- **SPSS Results Screenshots:** [Picture1](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Picture1.png) [Picture2](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Picture2.png)
   - Picture1 and Picture2
   - Screenshots of the SPSS results from the one-way ANOVA analyses.
 
-- **DASS Data CSV File:** [data.csv]
+- **DASS Data CSV File:** [data.csv](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/data.csv)
   - The dataset used for the analysis, including demographic information and DASS scores.
 
-- **Presentation:** [Team 10 Pitch Deck.pptx]
+- **Presentation:** [Team 10 Pitch Deck.pptx](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Team%2010%20Pitch%20Deck.pptx)
   - A presentation summarizing the key findings and insights of the analysis.
 
-- **PDF Report:** [Team 10 Mental Health Dynamics Analysis.pdf]
+- **PDF Report:** [Team 10 Mental Health Dynamics Analysis.pdf](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Team%2010%20Mental%20Health%20Dynamics%20Analysis.pdf)
   - A detailed report providing an overview of the project, methodologies, results, and conclusions.
 
 ## Team Members:
