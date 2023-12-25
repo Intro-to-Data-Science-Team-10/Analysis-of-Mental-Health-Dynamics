@@ -12,7 +12,6 @@ This repository contains the code and results for a comprehensive analysis of th
   - This Jupyter Notebook file contains the code and step-by-step analysis of the project.
 
 - **SPSS Results Screenshots:** [Picture1](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Picture1.png) [Picture2](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Picture2.png)
-  - Picture1 and Picture2
   - Screenshots of the SPSS results from the one-way ANOVA analyses.
 
 - **DASS Data CSV File:** [data.csv](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/data.csv)
