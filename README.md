@@ -8,7 +8,7 @@ This repository contains the code and results for a comprehensive analysis of th
 
 ## Project Structure:
 
-- **Notebook File:** [Team 10 - FP_FA23-DSCI 6002.ipynb]([URL](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Team%2010%20-%20FP_FA23-DSCI%206002.ipynb))
+- **Notebook File:** [Team 10 - FP_FA23-DSCI 6002.ipynb](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Team%2010%20-%20FP_FA23-DSCI%206002.ipynb)
   - This Jupyter Notebook file contains the code and step-by-step analysis of the project.
 
 - **SPSS Results Screenshots:**
