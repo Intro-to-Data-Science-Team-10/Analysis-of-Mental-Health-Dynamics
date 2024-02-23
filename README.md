@@ -11,8 +11,10 @@ This repository contains the code and results for a comprehensive analysis of th
 - **Notebook File:** [Team 10 - FP_FA23-DSCI 6002.ipynb](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Team%2010%20-%20FP_FA23-DSCI%206002.ipynb)
   - This Jupyter Notebook file contains the code and step-by-step analysis of the project.
 
-- **SPSS Results Screenshots:** [Picture1](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Picture1.png) [Picture2](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Picture2.png)
+- **SPSS Results Screenshots:** 
   - Screenshots of the SPSS results from the one-way ANOVA analyses.
+  - ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Picture1.png))
+  - ![Alt Text](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/Picture2.png)
 
 - **DASS Data CSV File:** [data.csv](https://github.com/Intro-to-Data-Science-Team-10/Analysis-of-Mental-Health-Dynamics/blob/main/data.csv)
   - The dataset used for the analysis, including demographic information and DASS scores.
