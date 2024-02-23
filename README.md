@@ -27,10 +27,10 @@ This repository contains the code and results for a comprehensive analysis of th
 
 ## Team Members:
 
-- [Amjad Ali Kudsi](https://github.com/AmjadKudsi)
-- [Parin Patel](https://github.com/Parinv014)
-- [Karthik Vinnakota](https://github.com/karthik-vinnakota)
-- [Ramya Chava](https://github.com/ramyachava412)
+- [Amjad Ali Kudsi](https://github.com/AmjadKudsi) - **Team Leader, Data Analysis & Modeling**
+- [Parin Patel](https://github.com/Parinv014) - **Storytelling & Data Visualization**
+- [Karthik Vinnakota](https://github.com/karthik-vinnakota) - **Data Analysis**
+- [Ramya Chava](https://github.com/ramyachava412) - **Data Exploration**
 
 ## Instructions:
 
