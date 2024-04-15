@@ -27,6 +27,8 @@ This repository contains the code and results for a comprehensive analysis of th
 
 ## Team Members:
 
+- [Yash Malhotra](https://github.com/yashmalhotra124) - **Project Guide**
+
 - [Amjad Ali Kudsi](https://github.com/AmjadKudsi) - **Team Leader, Data Analysis & Modeling**
 - [Parin Patel](https://github.com/Parinv014) - **Storytelling & Data Visualization**
 - [Karthik Vinnakota](https://github.com/karthik-vinnakota) - **Data Analysis**
